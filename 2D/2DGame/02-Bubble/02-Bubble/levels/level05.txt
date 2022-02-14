@@ -1,0 +1,33 @@
+TILEMAP
+36 28 							-- Size of tile map in tiles
+16 16							-- Tile size & block size
+images/spr_Greenlands_orth_0.png 	-- Tilesheet
+13 7 								-- Number of tiles in tilesheet
+000000000012222222222222222222222223
+0000000000>????????????????????????@
+0000000000K                        M
+0000000000K                        M
+0000000000K                        M
+0000000000K                        M
+0000000000K                        M
+0000000000K                        M
+0000000000K               MYYEEEYYYZ
+0000000000K               MRSiiiQRRS
+0000000000XYYYYYYYYYYYYYYYZBCiiiABBC
+0000000000QRRRRRRRRRRRRRRRSBCiiiAOOP
+0000000000ABBBBBBBBBBBBBBBP000000000
+000000000000000000000000000000000000
+000000000000000000000000000000000000
+122222222222222222222222222222222223
+>??????????????????????????????????@
+K                                  M
+K                                  M
+K                                  M
+K                                  M
+K                                  M
+K                                  M
+K                                  M
+K                                  M
+K                                  M
+XYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYZ
+
